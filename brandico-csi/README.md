@@ -14,6 +14,12 @@ Display the icons by using classes on the ```<span>``` html tag. For example, yo
 
 ```<span class="ico csi-icon"></span>```
 
+### CDN 
+You can also use the icons by simply including the CDN link in the ```head``` of your page:
+
+```html 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/brandico@main/brandico-csi/brandico-csi.css"> 
+```
 
 ## License
 
