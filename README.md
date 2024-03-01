@@ -15,8 +15,9 @@ Display the icons by using classes on the ```<span>``` html tag. For example, yo
 Using the ```<span>``` html tag provides usage for BRANDICO Icon Library along with other icon libraries such as [IcoBCL](https://bcl.social/icobcl) and [Font Awesome](https://fontawesome.com/), as those icon libraries makes use of ```<i>``` tag.
 
 ### Showcase
-- LATIGID: Complete Icon Library for web3, including custom Icons from the project [LATIGID](https://github.com/quenquen/latigid).
-- Cafe com NFTs: Custom Icon Library with brand, beer and utilities icons.
+- LATIGID: Complete Icon Library for web3, including custom Icons from the project [LATIGID](https://github.com/berrycreative/latigid).
+- Snout Bears: Custom Icon Library with brand and autism icons.
+- Cerveja com NFTs: Custom Icon Library with brand, beer and utilities icons.
 - Companhia Brasileira de Governança (CBG)
 - Companhia de Soluções e Inteligência Governamental (CSI)
 
