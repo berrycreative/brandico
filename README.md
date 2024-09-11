@@ -4,6 +4,8 @@
 
 BRANDICO is a lightweight custom Icon Library beautifully crafted for web projects, customizable by the power of CSS. You can use BRANDICO side by side with your favorite Icon Library such as [IcoBCL](https://bcl.social/icobcl) and [Font Awesome](https://fontawesome.com/).
 
+**DEMO:** [See BRANDICO in action!](https://brandico.vercel.app/)
+
 ## Using Icons
 
 Display the icons by using classes on the ```<span>``` html tag. For example, you can use the ```brandico icon``` by using the following markup:
