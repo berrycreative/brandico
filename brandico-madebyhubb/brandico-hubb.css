@@ -9,11 +9,11 @@
  
 @font-face {
   font-family: 'brandico-hubb';
-  src:  url('fonts/brandico-hubb.eot?85z881');
-  src:  url('fonts/brandico-hubb.eot?85z881#iefix') format('embedded-opentype'),
-    url('fonts/brandico-hubb.ttf?85z881') format('truetype'),
-    url('fonts/brandico-hubb.woff?85z881') format('woff'),
-    url('fonts/brandico-hubb.svg?85z881#brandico-hubb') format('svg');
+  src:  url('fonts/brandico-hubb.eot?p8whyc');
+  src:  url('fonts/brandico-hubb.eot?p8whyc#iefix') format('embedded-opentype'),
+    url('fonts/brandico-hubb.ttf?p8whyc') format('truetype'),
+    url('fonts/brandico-hubb.woff?p8whyc') format('woff'),
+    url('fonts/brandico-hubb.svg?p8whyc#brandico-hubb') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -60,6 +60,9 @@
 }
 .twiply:before {
   content: "\e902";
+}
+.twiply-ico:before {
+  content: "\e905";
 }
 
 /* SCALABILITY */
