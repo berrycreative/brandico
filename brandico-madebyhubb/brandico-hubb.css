@@ -21,7 +21,7 @@
 
 .ico {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'brandico' !important;
+  font-family: 'brandico-hubb' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
