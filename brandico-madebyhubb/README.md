@@ -15,7 +15,7 @@ Display the icons by using classes on the ```<span>``` html tag. For example, yo
 You can also use the icons by simply including the CDN link in the ```head``` of your page:
 
 ```html 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/brandico@main/brandico-hubb/brandico-hubb.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/berrycreative/brandico@main/brandico-madebyhubb/brandico-hubb.css"> 
 ```
 
 ## License
