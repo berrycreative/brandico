@@ -1,0 +1,72 @@
+/*!
+  * BRANDICO "AMBITO" Icon Library v1 LITE
+  *
+  * Copyright (c) 2025 BCL.SOCIAL
+  * Licensed under the MIT license
+  * Icons distributed by CC BY-SA 4.0
+  *
+ */
+ 
+@font-face {
+  font-family: 'brandico-ambito';
+  src:  url('fonts/brandico-ambito.eot?ngjevq');
+  src:  url('fonts/brandico-ambito.eot?ngjevq#iefix') format('embedded-opentype'),
+    url('fonts/brandico-ambito.ttf?ngjevq') format('truetype'),
+    url('fonts/brandico-ambito.woff?ngjevq') format('woff'),
+    url('fonts/brandico-ambito.svg?ngjevq#brandico-ambito') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+s
+.ico {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'brandico-ambito' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="bcl-"],
+[class*=" bcl-"] {
+      display: inline-block;
+      width: 1em;
+      height: 1em;
+      stroke-width: 0;
+      stroke: currentColor;
+      fill: currentColor;
+  }
+
+/* ICONS */
+
+.ambito-ico:before {
+  content: "\e900";
+}
+.ambito-logo-alt:before {
+  content: "\e902";
+}
+.ambito-logo:before {
+  content: "\e901";
+}
+.brandico-ambitomkt:before {
+  content: "\e903";
+}
+.brandico:before {
+  content: "\e904";
+}
+.brandico-alt:before {
+  content: "\e905";
+}
+.hubb:before {
+  content: "\e906";
+}
+.hubb-alt:before {
+  content: "\e907";
+}
